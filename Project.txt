@@ -1,2 +1,4 @@
 testtesttest
 adjust on github
+adjust only on git
+adjust on git and origin
